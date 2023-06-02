@@ -1,6 +1,5 @@
 
-![placeholder](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/coding.gif){:style="display:block; margin-left:auto; margin-right:auto"}
-<div align="center">
+![placeholder](https://github.com/animeshmahajan8/animeshmahajan18/blob/main/coding.gif)
     
 
 
@@ -9,8 +8,7 @@
 
 ---
 </br>
----
-</br>### Hi there 👋
+
 
 <div align="center">
     <img src="https://github.com/4bhi8hek/abhishek007/blob/main/coding.gif">
@@ -78,13 +76,13 @@
 ---
 
 </br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animeshmahajan8&show_icons=true&locale=en" alt="animeshmahajan8" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4bhi8hek&show_icons=true&locale=en" alt="4bhi8hek" /></p>
 </br>
 
 ---
 
 </br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshmahajan8&" alt="animeshmahajan8" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4bhi8hek&" alt="4bhi8hek" /></p>
 </br>
 
 ---
