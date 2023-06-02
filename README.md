@@ -4,7 +4,7 @@
     <img src="https://github.com/animeshmahajan8/animeshmahajan18/blob/main/coding.gif">
 </div>
 
-<h1 align="center">Hi 👋, My Name is Animesh Mahajan</h1>
+
 
 @@ -22,7 +24,9 @@
 </p>
