@@ -1,88 +1,90 @@
 
-![placeholder](https://github.com/4bhi8hek/4bhi8hek/blob/main/coding.gif)
-    
-
-
-
-
-
----
-</br>
-
-
 <div align="center">
-    <img src="https://github.com/4bhi8hek/abhishek007/blob/main/coding.gif">
+  <img src="https://github.com/4bhi8hek/4bhi8hek/blob/main/coding.gif" alt="coding" width="250"/>
 </div>
 
-<h1 align="center">Hi 👋, My Name is Abhishek Kulkarni</h1>
-
-<h2 align="center">Data Enthiusiast, Insights Discoverer</h2>
-
-</br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=4bhi8hek&label=Profile%20views&color=0e75b6&style=flat" alt="4bhi8hek" /> </p>
-
-</br>
-<p align="center">
-🌏 I’m based in <b>Banglore, India</b>
-</p>
-<p align="center">
-🧠 I’m currently working on <b>Machine Learning projects</b>
-</p>
-<p align="center">
-💬 Ask me about <b>Python, Power BI, Unsupervised Learning</b>
-</p>
-<p align="center">
-✉️ You can contact me at <a href="mailto:abhishekkulkarni049@gmail.com" target = "_blank"><b>abhishekkuklkarni049@gmail.com.com</b></a>
-</p>
-</br>
-
-<div align="center">
-    <img src="https://github.com/4bhi8hek/4bhi8hek/blob/main/skyline.gif">
-</div>
-
----
-</br>
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-</br>
-<a href="https://www.github.com/4bhi8hek" target="_blank"><img align='center' src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt ='4bhi8hek' width="40" height="40" /></a>
-<a href="https://linkedin.com/in/abhishek-kulkarni-4b2426269" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="abhishek-kulkarni-4b2426269" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCxFXKdA_2eNpRuLk6_AoQJQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abhishek" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/abhishekkulkar26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="" height="40" width="40" /></a>
-<a href="https://medium.com/@Abhishekkulkarni" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="40" height="40" /></a>
-
-</p>
-</br>
+<h1 align="center">Hi 👋, I'm Abhishek Kulkarni</h1>
+<p align="center">Python Developer · Data Enthusiast · ML Explorer</p>
 
 ---
 
-</br>
-<h3 align="center">Languages and Tools:</h3>
 <p align="center">
-</br>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-without-subtitle.svg" alt="scikit learn" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://komarev.com/ghpvc/?username=4bhi8hek">
+    <img src="https://komarev.com/ghpvc/?username=4bhi8hek&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
 </p>
-</br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=4bhi8hek&show_icons=true&locale=en&layout=compact" alt="4bhi8hek" /></p>
-</br>
-
----
-
-</br>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=4bhi8hek&show_icons=true&locale=en" alt="4bhi8hek" /></p>
-</br>
+<p align="center">
+  🌏 Bangalore, India • 📧 <a href="mailto:abhishekkulkarni049@gmail.com">abhishekkulkarni049@gmail.com</a>
+</p>
 
 ---
 
-</br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=4bhi8hek&" alt="4bhi8hek" /></p>
-</br>
+## 🚀 About Me
+
+I'm a passionate Python developer who loves digging into data, building ML pipelines, and delivering insights that matter. When I'm not coding, you'll find me exploring new algorithms or reading ancient texts.
 
 ---
+
+## 🌟 Featured Projects
+
+### 🧠 [Smart‑ML‑Toolkit](https://github.com/4bhi8hek/smart-ml-toolkit)
+An end-to-end ML toolkit for preprocessing, modeling, evaluation — complete with Jupyter demos.
+
+### 📊 [Retail Dashboard](https://github.com/4bhi8hek/retail-dashboard)
+A Power BI and Python combo showcasing interactive KPIs and sales insights.
+
+### 🤖 [UpanishadGPT](https://github.com/4bhi8hek/upanishad-gpt) *(in progress)*
+A chatbot fine-tuned on ancient texts to provide spiritual guidance — blending code with wisdom.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C77A8?style=flat&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4bhi8hek&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4bhi8hek&theme=radical" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🔭 Currently Learning
+
+- 🧪 Advanced Unsupervised Learning techniques
+- 🤔 How to build spiritual chatbots with LLMs
+- 📦 Docker & REST API design for ML services
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/4bhi8hek" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" width="30"/>
+  </a>
+  <a href="https://linkedin.com/in/abhishek-kulkarni-4b2426269" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="30"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCxFXKdA_2eNpRuLk6_AoQJQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="30"/>
+  </a>
+  <a href="https://www.hackerrank.com/abhishekkulkar26" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="30"/>
+  </a>
+  <a href="https://medium.com/@Abhishekkulkarni" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" alt="Medium" width="30"/>
+  </a>
+</p>
