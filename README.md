@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/4bhi8hek/4bhi8hek/blob/main/coding.gif" alt="coding" width="500"/>
+  <img src="https://github.com/4bhi8hek/4bhi8hek/blob/main/coding.gif" alt="coding" width="1000"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Abhishek Kulkarni</h1>
